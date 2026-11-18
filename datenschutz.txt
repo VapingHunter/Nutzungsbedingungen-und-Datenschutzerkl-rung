@@ -57,8 +57,6 @@ Mitglieder können ihre eigenen Aktivitätsdaten über den Discord-Befehl /meine
 
 Die Aktivitätsdaten werden in einer SQLite-Datenbank auf dem System gespeichert, auf dem der Bot ausgeführt wird.
 
-[BITTE VOR VERÖFFENTLICHUNG ERGÄNZEN: Wird der Bot auf deinem eigenen PC oder bei einem Hosting-Anbieter betrieben? Falls Hosting-Anbieter: Name, Land und gegebenenfalls Angaben zur Auftragsverarbeitung eintragen.]
-
 Für die Bereitstellung der Funktionen kommuniziert der Bot mit der Discord-API. Discord verarbeitet Daten im Rahmen seines Dienstes eigenständig; weitere Informationen: https://discord.com/privacy. Je nach eingesetztem Anbieter können personenbezogene Daten in Drittländer übermittelt werden. Ob und auf welcher Grundlage dies geschieht, ist für den konkreten Betrieb zu prüfen und gegebenenfalls hier zu ergänzen.
 
 7. Speicherung und Löschung
@@ -71,7 +69,6 @@ Informationen über die befristete Rolle „Neuling“ werden für die technisch
 
 Bereits an den Moderationskanal versendete Inaktivitätswarnungen werden bei Löschung oder Serveraustritt nach Möglichkeit auch in Discord entfernt. Bei fehlenden Zugriffsrechten oder technischen Fehlern kann eine manuelle Entfernung durch die Moderation erforderlich sein.
 
-[BITTE VOR VERÖFFENTLICHUNG ERGÄNZEN: Gibt es Backups, exportierte CSV-Dateien oder technische Protokolle? Welche konkreten Löschfristen und Löschverfahren gelten dafür?]
 
 8. Rechte betroffener Personen
 
