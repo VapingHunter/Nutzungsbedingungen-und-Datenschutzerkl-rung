@@ -1,0 +1,67 @@
+NUTZUNGSBEDINGUNGEN
+Fortress of Games – Discord-Bot
+Stand: 18. November 2026
+
+1. Anbieter und Geltungsbereich
+
+Betreiber: Phil Knese
+Anschrift: Streiberstraße 13, 06110 Halle (Saale), Deutschland
+E-Mail: knese.phil@gmx.de
+Discord-Server / Bot: Fortress of Games
+
+Diese Nutzungsbedingungen gelten für die Verwendung des Discord-Bots „Fortress of Games“ auf dem dazugehörigen Discord-Community-Server. Sie ergänzen die Serverregeln sowie die Nutzungsbedingungen von Discord (https://discord.com/terms). Zwingende gesetzliche Regelungen bleiben unberührt.
+
+2. Funktionen des Bots
+
+Der Bot unterstützt insbesondere:
+- die automatische Vergabe der Rolle „Mitglied“ nach Abschluss der integrierten Discord-Regelprüfung;
+- die Vergabe der Rolle „Neuling“ für 14 Tage mit anschließender automatischer Entfernung;
+- die freiwillige Selbstvergabe und Entfernung freigegebener Spielrollen;
+- die Erfassung bestimmter Aktivitätszeitpunkte auf dem Server;
+- interne Hinweise an die Moderation nach 90 Tagen ohne erfasste Aktivität;
+- Befehle zur Einsicht in die eigenen Aktivitätsdaten, deren Löschung und zum erneuten Aktivieren des Trackings.
+
+Die angebotenen Funktionen können sich im Laufe der Zeit ändern.
+
+3. Voraussetzungen und Verfügbarkeit
+
+Die Nutzung setzt ein Discord-Konto und die erforderlichen Rechte auf dem betreffenden Server voraus. Die Verfügbarkeit hängt von Discord, der Internetverbindung, dem Betrieb des Bots und der Serverkonfiguration ab. Eine ununterbrochene Erreichbarkeit wird nicht zugesagt.
+
+4. Rollenvergabe
+
+Die Rolle „Mitglied“ wird nach erfolgreicher Bestätigung der Serverregeln grundsätzlich dauerhaft vergeben, solange die Mitgliedschaft und die Serverkonfiguration dies vorsehen. Die zusätzliche Rolle „Neuling“ wird für 14 Tage vergeben und danach automatisch entfernt, sobald der Bot die Entfernung durchführen kann.
+
+Über die Rollenmenüs dürfen Mitglieder nur die ausdrücklich zur Selbstvergabe freigegebenen Spielrollen auswählen. Verwaltungs- und Sonderrollen, insbesondere „Administration“, „Moderation“, „Event Team“, „Gast“, „Karte“ und „Star Citizen Orga“, werden nicht durch das Rollenmenü vergeben. Die Rollen „Mitglied“ und „Neuling“ sind ebenfalls keine Selbstvergaberollen.
+
+5. Zulässige Nutzung
+
+Der Bot darf nicht dazu verwendet werden, Serverregeln zu umgehen, andere Mitglieder zu belästigen, Schnittstellen durch Spam zu überlasten oder sich unberechtigt Rollen oder Berechtigungen zu verschaffen. Die Moderation kann bei Missbrauch im Rahmen der Serverregeln eingreifen.
+
+6. Aktivitätserfassung und Datenschutz
+
+Der Bot verarbeitet bestimmte serverbezogene Zeitpunkte, etwa bei Nachrichten, hinzugefügten Reaktionen und Verbindungen zu Sprachkanälen. Zusätzlich kann ein von Discord sichtbarer Online-Status erfasst werden. Ein reiner Online-Status wird für die 90-Tage-Inaktivitätsbewertung nicht als Aktivität gewertet.
+
+Mitglieder können über /meinedaten ihre gespeicherten Aktivitätsdaten einsehen. Mit /datenloeschen können sie die Aktivitätsdaten entfernen und das weitere Tracking deaktivieren. Mit /tracking_starten können sie die Erfassung wieder aktivieren.
+
+Nähere Informationen zu Datenarten, Speicherfristen und Betroffenenrechten stehen in der Datenschutzerklärung für „Fortress of Games“. Die Bestätigung der Discord-Serverregeln ist nicht automatisch eine datenschutzrechtliche Einwilligung in jede Art von Datenverarbeitung.
+
+7. Inaktivitätswarnungen und Moderation
+
+Wird über mindestens 90 Tage keine entsprechende Aktivität erfasst, kann der Bot einen Hinweis in einem nicht öffentlichen Moderationskanal veröffentlichen. Eine Warnung führt durch den Bot selbst nicht zu einem automatischen Ausschluss vom Server. Entscheidungen über Moderationsmaßnahmen treffen die zuständigen Moderatoren oder Administratoren.
+
+8. Änderungen und Einstellung des Dienstes
+
+Der Betreiber kann Funktionen des Bots anpassen oder den Betrieb bei technischen Schwierigkeiten oder rechtlichen Erfordernissen vorübergehend aussetzen. Über wesentliche Änderungen dieser Nutzungsbedingungen wird in geeigneter Form informiert.
+
+9. Haftung
+
+Es gelten die gesetzlichen Haftungsregelungen. Eine Haftung für Vorsatz, grobe Fahrlässigkeit, Schäden aus der Verletzung von Leben, Körper oder Gesundheit sowie sonstige zwingende gesetzliche Haftung wird durch diese Nutzungsbedingungen nicht ausgeschlossen oder eingeschränkt.
+
+10. Kontakt
+
+Bei Fragen zur Nutzung des Bots oder zu diesen Nutzungsbedingungen:
+Phil Knese
+Streiberstraße 13
+06110 Halle (Saale)
+Deutschland
+E-Mail: knese.phil@gmx.de

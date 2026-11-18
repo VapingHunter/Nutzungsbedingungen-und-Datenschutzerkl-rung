@@ -1,0 +1,102 @@
+DATENSCHUTZERKLÄRUNG
+Fortress of Games – Discord-Bot
+Stand: 18. November 2026
+
+1. Verantwortlicher
+
+Verantwortlich für die hier beschriebene Verarbeitung durch den Bot:
+Phil Knese
+Streiberstraße 13
+06110 Halle (Saale)
+Deutschland
+E-Mail: knese.phil@gmx.de
+
+Discord-Server und Bot: Fortress of Games
+
+Datenschutzanfragen können an die oben genannte E-Mail-Adresse gerichtet werden.
+
+2. Zwecke der Datenverarbeitung
+
+Der Discord-Bot „Fortress of Games“ wird zur Organisation des Community-Servers eingesetzt. Er ermöglicht die automatische Rollenvergabe nach Bestätigung der Discord-Serverregeln, die Auswahl von Spielrollen, die befristete Rolle „Neuling“, die Anzeige eigener Aktivitätsdaten und die Unterstützung der Moderation durch Hinweise auf längere Inaktivität.
+
+3. Verarbeitete Daten
+
+Abhängig von der Nutzung und den von Discord bereitgestellten Informationen verarbeitet der Bot insbesondere:
+
+- Discord-Benutzer-ID und Discord-Server-ID zur eindeutigen Zuordnung;
+- den Discord-Anzeigenamen;
+- Zeitpunkt der ersten Erfassung durch den Bot;
+- Zeitpunkt der letzten beobachteten Nachricht auf dem Server;
+- Zeitpunkt der letzten hinzugefügten Reaktion auf eine Nachricht;
+- Zeitpunkt einer beobachteten Verbindung zu einem Sprachkanal und gegebenenfalls weitere Zeitpunkte, während die Voice-Verbindung besteht;
+- zuletzt beobachteten Online-, Abwesend- oder Beschäftigt-Status, soweit Discord diese Statusinformationen bereitstellt;
+- Zeitpunkt der letzten für die Inaktivitätsbewertung zählenden Aktivität;
+- Daten zur Rollenvergabe und zum Ablauf der befristeten Rolle „Neuling“;
+- bei einer Abmeldung vom Aktivitätstracking: Discord-Benutzer-ID, Server-ID und Zeitpunkt der Abmeldung auf einer Sperrliste;
+- IDs der vom Bot im Moderationskanal versendeten Inaktivitätswarnungen, damit diese verwaltet beziehungsweise gelöscht werden können.
+
+Der Bot speichert keine Inhalte von Nachrichten, keine Sprachaufnahmen und keine Inhalte der Nachrichten, auf die reagiert wurde. Die Auswahl oder Inhalte von Emojis werden ebenfalls nicht in der Aktivitätsdatenbank gespeichert. Der Bot kann nicht feststellen, ob jemand in einem Sprachkanal tatsächlich spricht. Ein als „unsichtbar“ eingestellter Online-Status lässt sich nicht zuverlässig erkennen.
+
+4. Rechtsgrundlagen
+
+Für die technisch notwendige Rollenverwaltung und die Organisation des Community-Servers kommt Art. 6 Abs. 1 Buchst. f DSGVO (berechtigtes Interesse an der Organisation und am sicheren Betrieb des Servers) als Rechtsgrundlage in Betracht, sofern die gesetzlichen Voraussetzungen erfüllt sind.
+
+Das Aktivitätstracking und die Inaktivitätswarnungen sind in der gegenwärtigen Bot-Konfiguration grundsätzlich aktiviert. Für deren Verarbeitung auf Grundlage von Art. 6 Abs. 1 Buchst. f DSGVO ist eine konkrete Interessenabwägung erforderlich, in der die Interessen und Rechte der Mitglieder berücksichtigt werden müssen. Ob diese Grundlage im konkreten Betrieb ausreicht oder eine vorherige Einwilligung erforderlich ist, muss vor dem Einsatz rechtlich geprüft werden. Die bloße Bestätigung der Discord-Serverregeln ersetzt keine gegebenenfalls erforderliche Einwilligung. Sollte eine vorherige Einwilligung nötig sein, darf das Tracking nicht ohne entsprechende technische Umstellung auf ein freiwilliges Opt-in eingesetzt werden.
+
+Zur Umsetzung eines Widerspruchs beziehungsweise einer Abmeldung speichert der Bot eine minimale Sperrliste, damit nicht automatisch neue Aktivitätsdaten für diese Person angelegt werden. Als Rechtsgrundlage kommt insoweit Art. 6 Abs. 1 Buchst. f DSGVO in Betracht.
+
+5. Aktivität und Inaktivitätswarnungen
+
+Als Aktivität zählen serverbezogene Nachrichten, hinzugefügte Reaktionen und beobachtete Voice-Verbindungen. Die bloße Anzeige als online, abwesend oder beschäftigt zählt nicht als Aktivität für die Inaktivitätswarnung.
+
+Nach mindestens 90 Tagen ohne eine solche Aktivität, gerechnet ab der zuletzt erfassten Aktivität oder der erstmaligen Beobachtung, kann der Bot eine Benachrichtigung in einem für die Moderation vorgesehenen Kanal versenden. Diese kann einen Mitgliedsbezug und die Zeitpunkte der letzten erfassten Aktivitäten enthalten. Der Bot schließt Mitglieder nicht automatisch wegen Inaktivität aus dem Server aus; darüber entscheiden Menschen.
+
+6. Zugriff auf Daten und Empfänger
+
+Mitglieder können ihre eigenen Aktivitätsdaten über den Discord-Befehl /meinedaten einsehen. Berechtigte Serververantwortliche können Daten einzelner Mitglieder über /aktivitaet einsehen und über /aktivitaetsliste eine CSV-Übersicht exportieren. Inaktivitätswarnungen sind für Personen mit Zugriff auf den entsprechenden Moderationskanal sichtbar. Exporte sind vertraulich zu behandeln und nach Wegfall ihres Zwecks zu löschen.
+
+Die Aktivitätsdaten werden in einer SQLite-Datenbank auf dem System gespeichert, auf dem der Bot ausgeführt wird.
+
+[BITTE VOR VERÖFFENTLICHUNG ERGÄNZEN: Wird der Bot auf deinem eigenen PC oder bei einem Hosting-Anbieter betrieben? Falls Hosting-Anbieter: Name, Land und gegebenenfalls Angaben zur Auftragsverarbeitung eintragen.]
+
+Für die Bereitstellung der Funktionen kommuniziert der Bot mit der Discord-API. Discord verarbeitet Daten im Rahmen seines Dienstes eigenständig; weitere Informationen: https://discord.com/privacy. Je nach eingesetztem Anbieter können personenbezogene Daten in Drittländer übermittelt werden. Ob und auf welcher Grundlage dies geschieht, ist für den konkreten Betrieb zu prüfen und gegebenenfalls hier zu ergänzen.
+
+7. Speicherung und Löschung
+
+Die Aktivitätsdaten werden während der Mitgliedschaft im Server grundsätzlich so lange vorgehalten, wie sie für die beschriebenen Funktionen benötigt werden. Bei Verlassen des Servers oder bei Nutzung von /datenloeschen werden die betreffenden Aktivitätsdaten aus der Bot-Datenbank entfernt.
+
+Nach /datenloeschen speichert der Bot auf einer Sperrliste weiterhin die Discord-Benutzer-ID, die Server-ID und den Zeitpunkt der Abmeldung, damit das Tracking deaktiviert bleibt. Über /tracking_starten kann die betroffene Person die Erfassung wieder aktivieren. Die Verarbeitung für eine erforderliche Rollenverwaltung ist davon unabhängig.
+
+Informationen über die befristete Rolle „Neuling“ werden für die technische Durchführung der 14-tägigen Vergabe benötigt und nach erfolgreicher Abwicklung der Entfernung aus der Fristenverwaltung entfernt.
+
+Bereits an den Moderationskanal versendete Inaktivitätswarnungen werden bei Löschung oder Serveraustritt nach Möglichkeit auch in Discord entfernt. Bei fehlenden Zugriffsrechten oder technischen Fehlern kann eine manuelle Entfernung durch die Moderation erforderlich sein.
+
+[BITTE VOR VERÖFFENTLICHUNG ERGÄNZEN: Gibt es Backups, exportierte CSV-Dateien oder technische Protokolle? Welche konkreten Löschfristen und Löschverfahren gelten dafür?]
+
+8. Rechte betroffener Personen
+
+Im Rahmen der gesetzlichen Voraussetzungen bestehen insbesondere folgende Rechte:
+- Auskunft über gespeicherte personenbezogene Daten (Art. 15 DSGVO);
+- Berichtigung unrichtiger Daten (Art. 16 DSGVO);
+- Löschung (Art. 17 DSGVO);
+- Einschränkung der Verarbeitung (Art. 18 DSGVO);
+- Datenübertragbarkeit, soweit anwendbar (Art. 20 DSGVO);
+- Widerspruch gegen eine Verarbeitung auf Grundlage berechtigter Interessen (Art. 21 DSGVO).
+
+Anfragen können per E-Mail an knese.phil@gmx.de gerichtet werden. Betroffene Personen haben außerdem das Recht auf Beschwerde bei einer zuständigen Datenschutzaufsichtsbehörde (Art. 77 DSGVO).
+
+Für die selbstständige Verwaltung der erfassten Aktivitätsdaten stehen /meinedaten, /datenloeschen und /tracking_starten zur Verfügung.
+
+9. Datensicherheit und Fehlermeldungen
+
+Die SQLite-Datenbank wird am Ausführungsort des Bots gespeichert. Bei der Fehlerdiagnose können in der Konsole technische Meldungen erscheinen, die Discord-IDs enthalten. In der gegenwärtigen Bot-Version werden Konsolenlogs standardmäßig nicht in einer eigenen Logdatei gespeichert. Der Zugriff auf das Betriebssystem, die Datenbank, Sicherungen und exportierte Daten ist angemessen zu beschränken.
+
+10. Aufruf der veröffentlichten Rechtstexte
+
+Werden diese Rechtstexte über GitHub Pages bereitgestellt, übermittelt der Browser an GitHub technisch notwendige Verbindungsdaten, insbesondere die IP-Adresse. GitHub kann diese Daten für die Bereitstellung und Sicherheit seiner Dienste verarbeiten. Nähere Informationen: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+
+Diese reinen Textdateien enthalten keine eigenen Analyse-Skripte, Formulare oder eingebetteten externen Schriftarten. Falls die Rechtstexte nicht über GitHub Pages, sondern über einen anderen Anbieter veröffentlicht werden, ist dieser Abschnitt entsprechend anzupassen.
+
+11. Aktualität
+
+Diese Informationen beziehen sich auf den beschriebenen Funktionsumfang des Bots „Fortress of Games“ mit Stand vom 18. November 2026. Bei Änderungen der Datenverarbeitung oder des technischen Betriebs wird die Datenschutzerklärung entsprechend aktualisiert.
